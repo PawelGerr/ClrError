@@ -1,0 +1,7 @@
+.idea/
+ClrError/bin/
+ClrError/obj/
+
+ClrError/test.db
+ClrError/test.db-shm
+ClrError/test.db-wal
